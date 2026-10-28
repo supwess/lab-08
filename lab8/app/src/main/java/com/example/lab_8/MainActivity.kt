@@ -1,5 +1,5 @@
 package com.example.lab_8
-
+// some comment
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
